@@ -3,3 +3,9 @@ C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Web\bin\Fleetmatics
 C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Web\bin\Fleetmatics.Web.pdb
 C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Web\obj\Debug\Fleetmatics.Web.dll
 C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Web\obj\Debug\Fleetmatics.Web.pdb
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\bin\Fleetmatics.Web.dll.config
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\bin\Fleetmatics.Web.dll
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\bin\Fleetmatics.Web.pdb
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\obj\Debug\Fleetmatics.Web.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\obj\Debug\Fleetmatics.Web.dll
+C:\Users\Jefferson.Silv\Documents\GitHub\Fleetmatic_Test\Fleetmatics.Web\obj\Debug\Fleetmatics.Web.pdb
