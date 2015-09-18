@@ -1,0 +1,21 @@
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Fleetmatics.Domain.csprojResolveAssemblyReference.cache
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Fleetmatics.Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Fleetmatics.Domain.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.dll.config
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\EntityFramework.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.dll.config
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Fleetmatics.Domain.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\obj\Debug\Fleetmatics.Domain.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Domain\obj\Debug\Fleetmatics.Domain.pdb

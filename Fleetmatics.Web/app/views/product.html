@@ -1,0 +1,18 @@
+﻿<h2>Product</h2>
+<div>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Description</th>
+            <th>Price €</th>
+        </tr>
+        </thead>
+        <tr ng-repeat="product in products">
+            <td>{{ product.Description }}</td>
+            <td>{{ product.Price}}</td>
+        </tr>
+    </table>
+
+    <p>This screen is only visible if the user is authenticated</p>
+    <p>The token used to authenticate the user is save in the localStorage</p>
+</div>

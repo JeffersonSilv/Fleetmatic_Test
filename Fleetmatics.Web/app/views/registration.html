@@ -1,0 +1,66 @@
+﻿<form class="form-login" role="form">
+    <h2 class="form-login-heading">Sign up</h2>
+
+    <div class="row">
+        <div class="form-group ">
+            <label class="col-md-2 control-label">First Name:</label>
+            <div class="col-md-4 ">
+                <input type="text" class="form-control" placeholder="First Name" data-ng-model="registration.firstName" required autofocus>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-group">
+            <label class="col-md-2 control-label">Last Name:</label>
+            <div class="col-md-4 ">
+                <input type="text" class="form-control" placeholder="Last Name" data-ng-model="registration.lastName" required autofocus>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div class="row">
+        <div class="form-group">
+            <label class="col-md-2 control-label">UserName:</label>
+            <div class="col-md-4 ">
+                <input type="text" class="form-control" placeholder="Username" data-ng-model="registration.userName" required autofocus>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-group">
+            <label class="col-md-2 control-label">Password:</label>
+            <div class="col-md-4 ">
+                <input type="password" class="form-control" placeholder="Password" data-ng-model="registration.password" required>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-group">
+            <label class="col-md-2 control-label">Confirm Password:</label>
+            <div class="col-md-4 ">
+                <input type="password" class="form-control" placeholder="Confirm Password" data-ng-model="registration.confirmPassword" required>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-group">
+            <div class="col-md-6 ">
+                <button class="btn btn-lg btn-info btn-block" type="submit" data-ng-click="signUp()">Submit</button>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="form-group">
+            <div class="col-md-6 ">
+                <div data-ng-hide="errorMessage == ''" data-ng-class="(savedSuccessfully) ? 'alert alert-success' : 'alert alert-danger'">
+                    {{errorMessage}}
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,5 @@
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\bin\Debug\Domain.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Domain\obj\Debug\Domain.pdb

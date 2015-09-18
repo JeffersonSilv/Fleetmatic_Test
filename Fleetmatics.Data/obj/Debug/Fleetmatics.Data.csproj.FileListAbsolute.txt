@@ -1,0 +1,37 @@
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.csprojResolveAssemblyReference.cache
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.dll.config
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Domain.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.Migrations.InitialMigration.resources
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.csproj.GenerateResource.Cache
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.Migrations.Passoword.resources
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.dll.config
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Data.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Domain.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Fleetmatics.Domain.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.Migrations.CreateDatabase.resources
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.csproj.GenerateResource.Cache
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Data\obj\Debug\Fleetmatics.Data.pdb

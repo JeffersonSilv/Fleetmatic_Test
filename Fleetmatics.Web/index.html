@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="FleetmaticsApp">
+<head>
+    <meta content="IE=edge, chrome=1" http-equiv="X-UA-Compatible" />
+    <link href="content/bootstrap.min.css" rel="stylesheet" />
+    <title>Fleetmatics Test - Jefferson Barbosa da Silva</title>
+
+</head>
+<body class="container">
+    <nav role="navigation" class="navbar navbar-default" data-ng-controller="indexController">
+        <div class="navbar-header">
+            <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+                <img alt="Brand" src="/image/logo2.jpg" />
+            </a>
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li data-ng-hide="!authenticationInfo.isAuth"><a href="#">Welcome {{authenticationInfo.userName}}</a></li>
+                <li data-ng-hide="!authenticationInfo.isAuth"><a href="#/product">Products</a></li>
+                <li data-ng-hide="authenticationInfo.isAuth"> <a href="#/login">Login</a></li>
+                <li data-ng-hide="authenticationInfo.isAuth"> <a href="#/registration">Sign Up</a></li>
+                <li data-ng-hide="!authenticationInfo.isAuth"><a href="" data-ng-click="logOut()">Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div ng-view>
+    </div>
+
+    <div id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <br/>
+                    <br />
+                    <p class="text-muted">Jefferson Barbosa da Silva - .Net Developer Test to Fleetmatics. <a target="_blank" href="https://ie.linkedin.com/pub/jefferson-silva/41/343/9b1">Linked In</a>
+                    </p>
+                    <br/>
+                    <br/>
+
+                    <p>Instructions:Do not forget to adjuste the string connection in the projects above:</p>
+                    <p>Fleetmatics.OauthApi</p>
+                    <p>Fleetmatics.Data</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="Scripts/angular-local-storage.min.js"></script>
+
+    <script src="app/FleetmaticsApp.js"></script>
+
+    <script src="app/controllers/homeController.js"></script>
+    <script src="app/controllers/indexController.js"></script>
+    <script src="app/controllers/loginController.js"></script>
+    <script src="app/controllers/productController.js"></script>
+    <script src="app/controllers/registrationController.js"></script>
+    <script src="app/controllers/productController.js"></script>
+
+    <script src="app/services/authenticationService.js"></script>
+    <script src="app/services/productService.js"></script>
+    <script src="app/Interceptor/interceptorService.js"></script>
+</body>
+</html>

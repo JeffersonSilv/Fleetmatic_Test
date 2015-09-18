@@ -1,0 +1,36 @@
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.dll.config
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Data.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Domain.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Domain.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Data.pdb
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.csprojResolveAssemblyReference.cache
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.dll
+c:\users\jefferson.silv\documents\visual studio 2013\Projects\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.dll.config
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Service.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Data.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Domain.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Domain.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Fleetmatics.Data.pdb
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.dll
+C:\Users\Jefferson.Silv\Source\Repos\Fleetmatics\Fleetmatics.Service\obj\Debug\Fleetmatics.Service.pdb
